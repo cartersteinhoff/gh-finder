@@ -2,4 +2,4 @@
 
 ## React SPA pulling data from Github API
 
-![Application](capture.PNG)
+![Application](github-finder\Capture.PNG)
